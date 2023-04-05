@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  justify-content: flex-start;
+  padding: 6px 12px;
+  box-sizing: border-box;
+  border-bottom: 1px solid rgba(245, 245, 245, 0.5);
+}
+
+.navbar h3 {
+  font-size: large;
+  font-weight: bold;
+  color: whitesmoke;
+}
