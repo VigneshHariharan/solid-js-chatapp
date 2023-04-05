@@ -17,7 +17,7 @@ export default defineConfig({
   build: {
     target: "esnext",
     rollupOptions: {
-      treeshake: "smallest",
+      treeshake: "recommended",
     },
   },
 });
